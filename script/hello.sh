@@ -1,0 +1,4 @@
+date
+pwd
+echo thanks
+
